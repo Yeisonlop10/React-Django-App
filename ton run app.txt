@@ -1,0 +1,5 @@
+To launch app
+
+1. on root: pipenv shell
+2. on leadmanager: python manage.py runserver
+3. on leadmanager: npm run dev
